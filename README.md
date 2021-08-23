@@ -1,11 +1,5 @@
 
 
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm <b>Sharupya Barua</b></h1>
- <img src="https://gpvc.arturio.dev/Sharupya" alt="Profile views" align='right'/> 
- <a href="https://github.com/Sharupya/Sharupya/"> </a>
-<br/>
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F74E83&size=22&center=true&vCenter=true&height=60&lines=I'm+%22SHARUPYA+BARUA%22;UI+designer;Full+Stack+Dev;Computer+Science+2022;Always+learning!">
 </p>
@@ -14,6 +8,9 @@
 <p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px"></p>
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Sharupya<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
+
+
+
 
 <img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" />
 
