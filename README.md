@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F74E83&size=22&center=true&vCenter=true&height=60&lines=I'm+%22SHARUPYA+BARUA%22;UI+designer;Full+Stack+Dev;Computer+Science+2022;Always+learning!">
-</p>
-<hr/>
+
 
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm <b>Sharupya Barua</b></h1>
  <img src="https://gpvc.arturio.dev/Sharupya" alt="Profile views" align='right'/> 
@@ -10,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Full+Stack+Web+Developer;AI+%7C%7C+ML+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F74E83&size=22&center=true&vCenter=true&height=60&lines=I'm+%22SHARUPYA+BARUA%22;UI+designer;Full+Stack+Dev;Computer+Science+2022;Always+learning!">
 </p>
 <hr/>
 
