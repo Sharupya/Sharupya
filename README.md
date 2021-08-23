@@ -60,7 +60,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Vue.js](https://img.shields.io/badge/-Vuejs-222222?style=flat-square&logo=vue.js&link=https://github.com/Tanjib-Sharupya/)
+![Vue.js](https://img.shields.io/badge/-Vuejs-222222?style=flat-square&logo=vue.js&link=https://github.com/Sharupya/)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrap&logoColor=61DAFB)
@@ -75,10 +75,10 @@
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/) -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanjib-Sharupya&theme=radical&hide=glsl,python" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharupya&theme=radical&hide=glsl,python" />
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tanjib-Sharupya&show_icons=true&theme=dracula" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sharupya&show_icons=true&theme=dracula" /></p>
 
 <!--START_SECTION:waka-->
 ```text
@@ -91,7 +91,7 @@ Cpp         24 mins             ██░░░░░░░░░░░░░░
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 <!--END_SECTION:waka-->
 <!--
-**Tanjib-Sharupya/Tanjib-Sharupya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sharupya/Sharupya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
