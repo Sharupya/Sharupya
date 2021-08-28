@@ -27,7 +27,7 @@
 
 #### 👨🏻‍💻 Currently working on:
 
-<a src="https://www.django.com/"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
+
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://vuejs.org/"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
@@ -36,6 +36,7 @@
 <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+<a src="https://www.django.com/"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
 
 ##### Languages I use
 
@@ -77,13 +78,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sharupya&show_icons=true&theme=dracula" /></p>
 
-<!--START_SECTION:waka-->
-```text
-Django    2 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
-Other       1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   30.65 % 
-Cpp         24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-
-```
 # Keep going ...
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 <!--END_SECTION:waka-->
