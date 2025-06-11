@@ -1,4 +1,4 @@
-
+#Sharupya
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F74E83&size=22&center=true&vCenter=true&height=60&lines=I'm+%22SHARUPYA+BARUA%22;UI+designer;Full+Stack+Dev;Computer+Science+2022;Always+learning!">
@@ -14,7 +14,7 @@
 
 <img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" />
 
-- 🎓I'm a student, Currently doing my bachelor degree in computer science and engineering
+- 🎓I'm working on Chittagong Online Limited which is actually a Internet Service Provider company as a Junior Network Engineer, I had done my bachelor degree in computer science and engineering from Premier University Chittagong
 <!-- - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition -->
 - 🪐Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
